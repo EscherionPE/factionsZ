@@ -1,0 +1,37 @@
+# Available languages: eng
+language: eng
+
+# maximum size (x,z) of one claim
+max_claim_size: 25
+
+# max players in faction
+max_players: 50
+
+# request timeouts in seconds
+inv_timeout: 30
+ally_timeout: 30
+
+# max amount of allies a faction can have
+ally_limit : 3
+
+# description min/max amount of characters
+desc_min_characters: 20
+desc_max_characters: 100
+
+# faction name min/max amount of characters
+name_min_characters: 3
+name_max_characters: 15
+
+# pvp_strength_gain for killer IF
+victim_in_faction: 10
+victim_not_in_faction: 5
+
+# pvp_strength_loss for victim IF
+killer_in_faction: 10
+killer_not_in_faction: 20
+
+# amount of factions at top to list
+top_length: 10
+
+# The data provider where faction data is stored
+DataProvider: sqlite

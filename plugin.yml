@@ -1,0 +1,70 @@
+name: factionsZ
+main: EschieEsh\factionsZ\factionsZ
+version: 1.0.0
+api:
+- 3.0.0
+- 3.0.0-ALPHA7
+authors:
+ - EschieEsh
+description: "A faction manager plugin for MCPE"
+load: STARTUP
+extensions:
+- sqlite3
+permissions:
+    factionZ.command:
+        default: op
+        children:
+            factionsZ.command.create:
+                default: true
+            factionsZ.command.disband:
+                default: true
+            factionsZ.command.help:
+                default: true
+            factionsZ.command.plead:
+                default: true
+            factionsZ.command.invite:
+                default: true
+            factionsZ.command.accept:
+                default: true
+            factionsZ.command.deny:
+                default: true
+            factionsZ.command.leave:
+                default: true
+            factionsZ.command.kick:
+                default: true
+            factionsZ.command.desc:
+                default: true
+            factionsZ.command.info:
+                default: true
+            factionsZ.command.promote:
+                default: true
+            factionsZ.command.demote:
+                default: true
+            factionsZ.command.about:
+                default: true
+            factionsZ.command.sethome:
+                default: true
+            factionsZ.command.home:
+                default: true
+            factionsZ.command.unsethome:
+                default: true
+            factionsZ.command.ally:
+                default: true
+            factionsZ.command.aaccept:
+                default: true
+            factionsZ.command.adeny:
+                default: true
+            factionsZ.command.unally:
+                default: true
+            factionsZ.command.claim:
+                default: true
+            factionsZ.command.unclaim:
+                default: true
+            factionsZ.command.chat: 
+                default: true
+            factionsZ.command.achat:
+                default: true
+            factionsZ.command.top:
+                default: true
+            factionsZ.command.admin:
+                default: op
