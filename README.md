@@ -47,6 +47,7 @@ But do not worry! Until then, you can replace your existing PureChat phar with m
 ## TO-DO for next update :
 ```
 Add /f overclaim, /f map and some more commands
+Add JSONProvider (for now only sqlite is available)
 Optimize some parts of the code and fix bugs (if there are any)
 ```
 ## Author
