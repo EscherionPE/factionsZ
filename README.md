@@ -2,6 +2,7 @@
 
 A plugin for managing factions in game.
 
+Download the latest version here : (https://github.com/Panda843/factionsZ/releases/tag/factionsZ_v1.0.0_BETA)
 ## Commands / Permissions
 
 ```
