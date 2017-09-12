@@ -39,7 +39,7 @@ A plugin for managing factions in game.
 To edit some of the properties of this plugin, please edit the config.yml. If you want to disable claiming, faction chat, ally chat or something else instead, you can always use PurePerms to remove the permission from players. 
 
 ## PureChat compatiblity :
-This plugin is currently "NOT" compatible with PureChat. Why? Because I can't add support for PureChat, the maker of PureChat himself should add support for factionsZ if you want this plugin to be compatible with PureChat. Until then, you can use my modified PureChat version which is at github.com/Panda843/PureChat This version will support factionsZ if default-faction-plugin is set to factionsZ
+This plugin is currently "NOT" compatible with PureChat. Why? Because I can't add support for PureChat, the maker of PureChat himself should add support for factionsZ if you want this plugin to be compatible with PureChat. Until then, you can use my modified PureChat version which is at (https://github.com/Panda843/PureChat) This version will support factionsZ if default-faction-plugin is set to factionsZ
 
 ## TO-DO for next update :
 ```
