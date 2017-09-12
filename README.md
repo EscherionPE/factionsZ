@@ -42,7 +42,7 @@ To edit some of the properties of this plugin, please edit the config.yml. If yo
 ## PureChat compatiblity :
 This plugin is currently "NOT" compatible with PureChat. Why? Because I can't add support for PureChat, the maker of PureChat himself should add support for factionsZ if you want this plugin to be compatible with PureChat. 
 
-But do not worry! Until then, you can replace the existing PureChat phar with my modified PureChat version which is at (https://github.com/Panda843/PureChat/releases/tag/MODDED_v1.4.0) This modified version will support factionsZ. If you already have factionsZ enabled and the new phar of PureChat, go to the PureChat config and set "default-faction-plugin" to factionsZ. 
+But do not worry! Until then, you can replace the existing PureChat phar with my modified PureChat version which is at (https://github.com/Panda843/PureChat/releases/download/MODDED_v1.4.0/PureChat_v1.4.0.phar) This modified version will support factionsZ. If you already have factionsZ enabled and the new phar of PureChat, go to the PureChat config and set "default-faction-plugin" to factionsZ. 
 
 ## TO-DO for next update :
 ```
