@@ -385,8 +385,6 @@ class SQLiteDataProvider extends DataProvider
         $this->sqlKickPlayer->reset();
         $this->sqlKickPlayer->execute();
         $this->setFactionPlayersAmount($faction, $this->getFactionPlayersAmount($faction) - 1);
-		
-		$this->unset_temporary_data($player);
     }
     /**
     * @param string $faction
